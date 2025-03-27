@@ -1,0 +1,1 @@
+Fully Supervised with SSE: 16.20%

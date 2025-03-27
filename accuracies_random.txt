@@ -1,0 +1,3 @@
+Fully Supervised: 14.00%
+Fully Supervised with SSE: 19.40%
+Semi Supervised: 23.30%
