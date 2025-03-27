@@ -27,3 +27,15 @@
 **selflabel_cifar-10.pth:** Pretrained model trained on CIFAR-10 dataset.
 
 **resnet56-4bfd9763.th:** Pretrained ResNet56 model.
+
+## Pretrained Models
+To access the pretrained models, download them from the following repositories:
+
+**CIFAR-10 Self-Labelling Model:**
+Download the self-labelling model for CIFAR-10 from the SCAN repository: https://github.com/liqing-ustc/SCAN
+
+**ResNet56 Model:**
+Download the PyTorch ResNet CIFAR-10 repository to access the ResNet56 model: https://github.com/akamaster/pytorch_resnet_cifar10
+
+**FlexMatch Model:**
+Download the TorchSSL repository to access the FlexMatch model: https://github.com/TorchSSL/TorchSSL
